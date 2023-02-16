@@ -1,3 +1,3 @@
 # DevStudion
                                                                                              
-Esse foi meu primeiro projeto feito de front-end. 
+Esse foi meu primeiro projeto criado.
